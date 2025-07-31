@@ -1,0 +1,6 @@
+title: My Blog
+description: "A blog powered by Jekyll and GitHub Pages."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Mouadgamedev.github.io"
+theme: minima
+author: Mouadgamedev
